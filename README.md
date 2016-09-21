@@ -1,3 +1,5 @@
+This repository is an adapted version of the Awesome CV template for my own personal use. Please find below the original README.
+
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
 
